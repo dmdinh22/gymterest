@@ -11,8 +11,10 @@
 // about supported directives.
 //
 //= require jquery_ujs
-//= require bootstrap
 //= require jquery
 //= require rails-ujs
 //= require turbolinks
+//= require masonry/jquery.masonry
+//= require masonry/jquery.imagesloaded.min
 //= require_tree .
+//= require bootstrap
